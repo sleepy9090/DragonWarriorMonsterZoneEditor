@@ -1,0 +1,8 @@
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DragonWarriorMonsterZoneEditor\DragonWarriorMonsterZoneEditor\bin\Release\DragonWarriorMonsterZoneEditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DragonWarriorMonsterZoneEditor\DragonWarriorMonsterZoneEditor\bin\Release\DragonWarriorMonsterZoneEditor.pdb
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DragonWarriorMonsterZoneEditor\DragonWarriorMonsterZoneEditor\obj\Release\DragonWarriorMonsterZoneEditor.AboutBox1.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DragonWarriorMonsterZoneEditor\DragonWarriorMonsterZoneEditor\obj\Release\DragonWarriorMonsterZoneEditor.FormMain.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DragonWarriorMonsterZoneEditor\DragonWarriorMonsterZoneEditor\obj\Release\DragonWarriorMonsterZoneEditor.Properties.Resources.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DragonWarriorMonsterZoneEditor\DragonWarriorMonsterZoneEditor\obj\Release\DragonWarriorMonsterZoneEditor.csproj.GenerateResource.Cache
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DragonWarriorMonsterZoneEditor\DragonWarriorMonsterZoneEditor\obj\Release\DragonWarriorMonsterZoneEditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DragonWarriorMonsterZoneEditor\DragonWarriorMonsterZoneEditor\obj\Release\DragonWarriorMonsterZoneEditor.pdb

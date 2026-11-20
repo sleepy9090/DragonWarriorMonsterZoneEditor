@@ -1,4 +1,4 @@
-﻿# Dragon Warrior Monster Zone EDitor <br/>
+﻿# Dragon Warrior Monster Zone Editor <br/>
 Program to edit the monsters that appear in any of the 20 different zones in the NES ROM Dragon Warrior.<br/>
 
 -Tested with headered Dragon Warrior (U) (PRG0) [!].nes ROM.<br/>
